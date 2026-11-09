@@ -1,0 +1,5 @@
+/node_modules
+/dist
+.qodo
+/data/dashboards.duckdb
+/data/dashboards.duckdb.wal
